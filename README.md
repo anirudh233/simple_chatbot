@@ -1,0 +1,1 @@
+Simple Chatbot named Kamlesh using Pytorch . The model will categorize the input given by the user into different tags and selects a response from the tag randomnly . If the probability of the input being categorized into different tags is less than 75 percent then a default message like didn't understand is printed
